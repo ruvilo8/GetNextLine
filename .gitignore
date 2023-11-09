@@ -1,0 +1,10 @@
+.DS_STORE
+*.a
+*.o
+main
+test
+test_bonus
+main.c
+next
+a.out
+*.swp
